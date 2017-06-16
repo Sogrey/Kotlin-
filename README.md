@@ -1,11 +1,11 @@
-# Kotlin-Notes
+# Kotlin-学习笔记
 兴趣是最好的老师，学习是不变的真理
 
 
 ## Kotlin
 
-### 课程介绍
-  []Kotlin介绍
+### 1概述
+  []1.1Kotlin介绍
 
   []开发环境搭建
 
@@ -116,27 +116,7 @@
   []Native
 
 
-资源站
 
-https://kotlin.link/
-
-https://github.com/KotlinBy/awesome-kotlin
-
-官网
-
-http://kotlinlang.org/
-
-开发者社区
-
-http://kotlin.cn
-
-Github
-
-https://github.com/JetBrains/kotlin
-
-https://github.com/hussien89aa/KotlinUdemy
-
-https://github.com/ReactiveX/RxKotlin
 
 应用
 
