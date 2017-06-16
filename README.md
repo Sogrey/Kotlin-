@@ -4,10 +4,14 @@
 
 ## Kotlin
 
+	注：本系列只是本人学习记录，可共享学习，不作为商业价值
+
 ### 1概述
   [✔][1.1Kotlin介绍](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.1Kotlin%E4%BB%8B%E7%BB%8D)
 
-  [ ]开发环境搭建
+  [ ][1.2使⽤ Kotlin 进⾏服务器端开发(来自官方文档)]()
+
+  [ ][1.2开发环境搭建]()
 
 ### 基本语法
   [ ]基本类型
