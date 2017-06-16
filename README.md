@@ -15,9 +15,9 @@
 
   [✔][1.4Kotlin JavaScript 概述(来自官方文档)](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.4Kotlin%20JavaScript%20%E6%A6%82%E8%BF%B0)
 
-  [TODO][1.5开发环境搭建（JetBrains IntelliJ IDEA）](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.5%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
+  [TODO][1.5开发环境搭建（JetBrains IntelliJ IDEA）](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.5%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%EF%BC%88JetBrains%20IntelliJ%20IDEA%EF%BC%89)
 
-  [TODO][1.6开发环境搭建（Android studio）](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.5%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
+  [TODO][1.6开发环境搭建（Android studio）](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.6%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%EF%BC%88Android%20studio%EF%BC%89)
 
 ### 基本语法
   [ ]基本类型
