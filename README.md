@@ -15,7 +15,7 @@
 
   [✔][1.4Kotlin JavaScript 概述(来自官方文档)](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.4Kotlin%20JavaScript%20%E6%A6%82%E8%BF%B0)
 
-  [][1.2开发环境搭建]()
+  [TODO][1.5开发环境搭建]()
 
 ### 基本语法
   [ ]基本类型
