@@ -9,7 +9,11 @@
 ### 1概述
   [✔][1.1Kotlin介绍](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.1Kotlin%E4%BB%8B%E7%BB%8D)
 
-  [ ][1.2使⽤ Kotlin 进⾏服务器端开发(来自官方文档)]()
+  [ ][1.2使用Kotlin 进行服务器端开发(来自官方文档)](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.2使用Kotlin 进行服务器端开发)
+
+  [ ][1.3使用Kotlin 进行Android开发(来自官方文档)](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.3使用Kotlin 进行Android开发)
+
+  [ ][1.4Kotlin JavaScript 概述(来自官方文档)](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.4Kotlin JavaScript 概述)
 
   [ ][1.2开发环境搭建]()
 
