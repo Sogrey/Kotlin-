@@ -17,35 +17,40 @@
 
   [✔][1.5开发环境搭建（JetBrains IntelliJ IDEA）](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.5%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%EF%BC%88JetBrains%20IntelliJ%20IDEA%EF%BC%89)
 
-  [TODO][1.6开发环境搭建（Android studio）](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.6%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%EF%BC%88Android%20studio%EF%BC%89)
+  [✔][1.6开发环境搭建（Android studio）](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.6%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%EF%BC%88Android%20studio%EF%BC%89)
 
-### 基本语法
-  [ ]基本类型
+### 2基本语法
+  [TODO]2.1定义包
 
-  [ ]空安全类型
+  [TODO]2.2定义函数
 
-  [ ]智能转换
+  [TODO]2.3定义变量
 
-  [ ]类与对象初步
+  [TODO]2.4注释
 
-  [ ]数组与区间
+  [TODO]2.5字符模板
 
-### 程序结构
-  [ ]常量与变量
+  [TODO]2.6空安全类型
 
-  [ ]函数
+  [TODO]2.7智能转换
 
-  [ ]Lambda
+  [TODO]2.8类与对象初步
 
-  [ ]类成员
+  [TODO]2.9数组与区间
 
-  [ ]条件表达式
+### 3程序结构
 
-  [ ]循环语句
+  [TODO]3.1Lambda
 
-  [ ]运算符
+  [TODO]3.2类成员
 
-  [ ]异常捕获
+  [TODO]3.3条件表达式 if-else
+
+  [TODO]3.4循环语句 for,while,when
+
+  [TODO]3.5运算符 in,is,as
+
+  [TODO]3.6异常捕获
 
 ### 面向对象
   [ ]抽象类与接口
