@@ -20,23 +20,23 @@
   [✔][1.6开发环境搭建（Android studio）](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.6%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%EF%BC%88Android%20studio%EF%BC%89)
 
 ### 2基本语法
-  [TODO]2.1定义包
+  [TODO][2.1定义包](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
 
-  [TODO]2.2定义函数
+  [TODO][2.2定义函数](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
 
-  [TODO]2.3定义变量
+  [TODO][2.3定义变量](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
 
-  [TODO]2.4注释
+  [TODO][2.4注释](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
 
-  [TODO]2.5字符模板
+  [TODO][2.5字符模板](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
 
-  [TODO]2.6空安全类型
+  [TODO][2.6空安全类型](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
 
-  [TODO]2.7智能转换
+  [TODO][2.7智能转换](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
 
-  [TODO]2.8类与对象初步
+  [TODO][2.8类与对象初步](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
 
-  [TODO]2.9数组与区间
+  [TODO][2.9数组与区间](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
 
 ### 3程序结构
 
