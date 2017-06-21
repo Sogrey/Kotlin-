@@ -6,9 +6,8 @@ package org.sogrey.kotlin
  */
 //主函数
 fun main(args: Array<String>) {
-
     println("3和4最大的是"+max(3,4))
-
+    println("3和4最小的是"+Util().min(3,4))
 }
 //定义函数(求两个数里最大值)
 fun max(x:Int,y:Int):Int{
@@ -23,4 +22,11 @@ fun max(x:Int,y:Int):Int{
 
     //也可以调用Math函数
     return Math.max(x,y)
+}
+
+class Util(){
+    //求最小值
+    fun min(x:Int,y:Int):Int{
+        return if(x<y) x else y
+    }
 }
