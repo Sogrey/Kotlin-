@@ -20,7 +20,7 @@
   [✔][1.6开发环境搭建（Android studio）](https://sogrey.github.io/Kotlin-Notes/notes/1%E6%A6%82%E8%BF%B0/1.6%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%EF%BC%88Android%20studio%EF%BC%89)
 
 ### 2基本语法
-  [TODO][2.1定义包](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
+  [✔][2.1定义包](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.1%E5%AE%9A%E4%B9%89%E5%8C%85)
 
   [TODO][2.2定义函数](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.2%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0)
 
