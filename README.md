@@ -30,9 +30,9 @@
 
   [✔][2.5字符模板](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.5%E5%AD%97%E7%AC%A6%E6%A8%A1%E6%9D%BF)
 
-  [TODO][2.6空安全类型](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.6%E7%A9%BA%E5%AE%89%E5%85%A8%E7%B1%BB%E5%9E%8B)
+  [✔][2.6空安全类型](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.6%E7%A9%BA%E5%AE%89%E5%85%A8%E7%B1%BB%E5%9E%8B)
 
-  [TODO][2.7智能转换](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.7%E6%99%BA%E8%83%BD%E8%BD%AC%E6%8D%A2)
+  [✔][2.7智能转换](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.7%E6%99%BA%E8%83%BD%E8%BD%AC%E6%8D%A2)
 
   [TODO][2.8类与对象初步](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.8%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1%E5%88%9D%E6%AD%A5)
 
