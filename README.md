@@ -34,9 +34,9 @@
 
   [✔][2.7智能转换](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.7%E6%99%BA%E8%83%BD%E8%BD%AC%E6%8D%A2)
 
-  [TODO][2.8类与对象初步](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.8%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1%E5%88%9D%E6%AD%A5)
+  [TODO][2.8数组与区间](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.8%E6%95%B0%E7%BB%84%E4%B8%8E%E5%8C%BA%E9%97%B4)
 
-  [TODO][2.9数组与区间](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.9%E6%95%B0%E7%BB%84%E4%B8%8E%E5%8C%BA%E9%97%B4)
+### 类与对象
 
 ### 3程序结构
 
