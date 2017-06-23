@@ -43,11 +43,11 @@
 
   [TODO][3.1Lambda](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.1Lambda)
 
-  [TODO][3.2条件表达式 if-else](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.2%E6%9D%A1%E4%BB%B6%E8%A1%A8%E8%BE%BE%E5%BC%8F%20if-else)
+  [TODO][3.2运算符 in,is,as](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.2%E8%BF%90%E7%AE%97%E7%AC%A6%20in,is,as)
 
-  [TODO][3.3循环语句 for,while,when](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.3%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5%20for,while,when)
+  [TODO][3.3条件表达式 if-else](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.3%E6%9D%A1%E4%BB%B6%E8%A1%A8%E8%BE%BE%E5%BC%8F%20if-else)
 
-  [TODO][3.4运算符 in,is,as](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.4%E8%BF%90%E7%AE%97%E7%AC%A6%20in,is,as)
+  [TODO][3.4循环语句 for,while,when](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.4%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5%20for,while,when)
 
   [TODO][3.5异常捕获](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.5%E5%BC%82%E5%B8%B8%E6%8D%95%E8%8E%B7)
 
