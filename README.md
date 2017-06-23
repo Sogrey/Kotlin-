@@ -37,7 +37,7 @@
 
   [✔][2.8智能转换](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.8%E6%99%BA%E8%83%BD%E8%BD%AC%E6%8D%A2)
 
-  [TODO][2.9数组（集合）与区间](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.9%E6%95%B0%E7%BB%84%E4%B8%8E%E5%8C%BA%E9%97%B4)
+  [✔][2.9数组（集合）与区间](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.9%E6%95%B0%E7%BB%84%E4%B8%8E%E5%8C%BA%E9%97%B4)
 
 ### 3程序结构
 
