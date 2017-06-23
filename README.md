@@ -41,7 +41,7 @@
 
 ### 3程序结构
 
-  [TODO]3.1Lambda
+  [TODO][3.1Lambda](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.1Lambda)
 
   [TODO]3.2条件表达式 if-else
 
