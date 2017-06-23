@@ -31,6 +31,6 @@ fun main(args: Array<String>) {
 
 
     val c: String? = null
-    val lc = c!!.length
-    println("c.length = " + lc) //Exception in thread "main" kotlin.KotlinNullPointerException
+    val lc = c!!.length //Exception in thread "main" kotlin.KotlinNullPointerException
+    println("c.length = " + lc)
 }

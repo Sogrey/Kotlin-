@@ -36,23 +36,22 @@
 
   [TODO][2.8数组（集合）与区间](https://sogrey.github.io/Kotlin-Notes/notes/2%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/2.8%E6%95%B0%E7%BB%84%E4%B8%8E%E5%8C%BA%E9%97%B4)
 
-### 类与对象
-
 ### 3程序结构
 
   [TODO]3.1Lambda
 
-  [TODO]3.2类成员
+  [TODO]3.2条件表达式 if-else
 
-  [TODO]3.3条件表达式 if-else
+  [TODO]3.3循环语句 for,while,when
 
-  [TODO]3.4循环语句 for,while,when
+  [TODO]3.4运算符 in,is,as
 
-  [TODO]3.5运算符 in,is,as
+  [TODO]3.5异常捕获
 
-  [TODO]3.6异常捕获
+### 4类与对象
 
-### 面向对象
+  [TODO]4.1类成员
+
   [ ]抽象类与接口
 
   [ ]object
