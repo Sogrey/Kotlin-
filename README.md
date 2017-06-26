@@ -51,6 +51,8 @@
 
   [TODO][3.5异常捕获](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.5%E5%BC%82%E5%B8%B8%E6%8D%95%E8%8E%B7)
 
+  [TODO][3.6返回和跳转](https://sogrey.github.io/Kotlin-Notes/notes/3%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/3.6%E8%BF%94%E5%9B%9E%E5%92%8C%E8%B7%B3%E8%BD%AC)
+
 ### 4类与对象
 
   [TODO]4.1类成员
