@@ -72,3 +72,37 @@ class CLazz{
 CLazz.`in`
 ```
 
+### kotlin没有封装类
+
+比如kotlin中有Int没有Integer（封装类）。
+
+### kotlin类型空值敏感
+
+kotlin在接受一个java类对象时，如果不能确定是否为空一定要将他赋值为可空类型，比如`String?`才能保证安全执行。
+
+### kotlin没有静态变量与静态方法
+
+kotlin中借助注解`@JvmStatic`让方法变成一个`public static`的方法，这样kotlin与java调用写法一样了。
+
+``` kotlin
+//申明匿名内部类
+object Clazz{
+    @JvmStatic
+    fun sayHello(str:String){
+        println(str)
+    }
+}
+```
+
+调用时kotlin与java写法有所区别：
+
+``` kotlin
+//kotlin调用
+Clazz.sayHello("Hello world.")
+```
+
+``` java
+//java调用
+Clazz.sayHello("Hello world.");
+```
+

@@ -108,16 +108,37 @@ echo("LiLei")
 ```
 
 > kotlin 参数上限为22，最多有22个参数
+>
+> java.lang.ClassNotFoundException: kotlin.Function23
 
-解决方法是利用java参数不限来解决：在kotlin包下新建java文件Function23.java:
+``` kotlin
+package top.sogrey.kotlin.demo.demo4
+
+fun echo(p1: Int, p2: Int, p3: Int, p4: Int, p5: Int, p6: Int, p7: Int, p8: Int, p9: Int, p10: Int, p11: Int, p12: Int, p13: Int, p14: Int, p15: Int, p16: Int, p17: Int, p18: Int, p19: Int, p20: Int, p21: Int, p22: Int, p23: Int) {
+    println("$p1$p3$p1$p4 $p5$p2$p1")
+}
+val echoVal={p1: Int, p2: Int, p3: Int, p4: Int, p5: Int, p6: Int, p7: Int, p8: Int, p9: Int, p10: Int, p11: Int, p12: Int, p13: Int, p14: Int, p15: Int, p16: Int, p17: Int, p18: Int, p19: Int, p20: Int, p21: Int, p22: Int, p23: Int->
+    println("$p1$p3$p1$p4 $p5$p2$p1")
+}
+
+fun main(args: Array<String>) {
+    echo(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23)
+
+    echoVal(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23)//这里会报错 java.lang.ClassNotFoundException: kotlin.Function23
+}
+```
+
+解决方法是利用java参数不限来解决：在kotlin包下新建java `interface`文件Function23.java:
 
 ``` java
 package kotlin;
 
 public interface Function23<P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17,P18,P19,P20,P21,P22,P23,R> extends Function<R>{
-    R invoke(P1 p1,P2 p2,P3 p3,P4 P4,P5 p5,P6 p6,P7 p7,P8 p8,P9 p9,P10 p10,P11 p11,P12 p12,P13 p13,P14 p14,P15 p15,P16 p16,P17 p17,P18 p18,P19 p19,P20 p20,P21 p21,P22 p22,P23 p23);
+    R invoke(P1 p1,P2 p2,P3 p3,P4 p4,P5 p5,P6 p6,P7 p7,P8 p8,P9 p9,P10 p10,P11 p11,P12 p12,P13 p13,P14 p14,P15 p15,P16 p16,P17 p17,P18 p18,P19 p19,P20 p20,P21 p21,P22 p22,P23 p23);
 }
 ```
+
+再次执行就不报错了。
 
 ## 高阶函数
 
@@ -127,7 +148,7 @@ public interface Function23<P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P
 fun onlyif(isDebug:Boolean,block:()->Unit){
     if(isDebug)block()
 }
-fun main(args:array<String>):Unit{
+fun main(args:Array<String>) {
     onlyif(true){
         println("打印日志")
     }
@@ -140,7 +161,7 @@ fun main(args:array<String>):Unit{
 fun onlyif(isDebug:Boolean,block:()->Unit){
     if(isDebug)block()
 }
-fun main(args:array<String>):Unit{
+fun main(args:Array<String>) {
     val runnable=Runnable{
         println("Runnable-run")
     }
@@ -163,7 +184,7 @@ fun main(args:array<String>):Unit{
 inline fun onlyif(isDebug:Boolean,block:()->Unit){
     if(isDebug)block()
 }
-fun main(args:array<String>):Unit{
+fun main(args:Array<String>) {
     val runnable=Runnable{
         println("Runnable-run")
     }
